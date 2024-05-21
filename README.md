@@ -4,6 +4,10 @@
 
 Nexter is a responsive, modern webpage for a real estate company. It showcases various properties, features top realtors, and provides an engaging user experience with its visually appealing design and interactive elements.
 
+## Demo
+
+You can view a live demo of this project [here](#https://eimantasp123.github.io/Nexter/).
+
 ## Features
 
 - **Responsive Design:** The webpage is fully responsive, ensuring a seamless experience on devices of all sizes.
